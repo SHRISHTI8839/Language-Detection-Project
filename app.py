@@ -108,4 +108,5 @@ with col2:
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ================= FOOTER =================
-st.markdown("<div class='footer'>© 2024 Language Detection Pro | Mini Project</div>", unsafe_allow_html=True)
+st.markdown("<div class='footer'>© 2025 Language Detection Pro | Mini Project</div>", unsafe_allow_html=True)
+
