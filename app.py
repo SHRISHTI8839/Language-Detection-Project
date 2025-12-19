@@ -50,10 +50,8 @@ st.markdown("""
 
 # ================= SIDEBAR =================
 with st.sidebar:
-    st.image(
-        "C:\Users\Shrishti Singh\Language Detection Project\logo pic.jpeg",
-        width=120
-    )
+    st.image("logo.jpg", width=200)
+       
     st.markdown("### ⚙️ Settings & Info")
     st.info("This AI model can detect **15+ languages** with high accuracy.")
     st.markdown("---")
@@ -109,6 +107,7 @@ with col2:
 
 # ================= FOOTER =================
 st.markdown("<div class='footer'>© 2025 Language Detection Pro | Mini Project</div>", unsafe_allow_html=True)
+
 
 
 
