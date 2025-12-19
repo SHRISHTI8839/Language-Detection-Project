@@ -50,8 +50,10 @@ st.markdown("""
 
 # ================= SIDEBAR =================
 with st.sidebar:
-    st.image("logo.jpg", width=200)
-       
+    st.image(
+        "https://i.ibb.co/4f1LZ8D/language-detection.png",
+        width=120
+    )
     st.markdown("### ⚙️ Settings & Info")
     st.info("This AI model can detect **15+ languages** with high accuracy.")
     st.markdown("---")
