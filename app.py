@@ -51,7 +51,7 @@ st.markdown("""
 # ================= SIDEBAR =================
 with st.sidebar:
     st.image(
-        "ChatGPT Image Dec 19, 2025, 09_31_32 AM.png",
+        "Downloads\ChatGPT Image Dec 19, 2025, 09_31_32 AM.png",
         width=120
     )
     st.markdown("### ⚙️ Settings & Info")
@@ -109,6 +109,7 @@ with col2:
 
 # ================= FOOTER =================
 st.markdown("<div class='footer'>© 2025 Language Detection Pro | Mini Project</div>", unsafe_allow_html=True)
+
 
 
 
