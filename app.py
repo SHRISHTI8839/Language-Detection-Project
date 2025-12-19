@@ -51,7 +51,7 @@ st.markdown("""
 # ================= SIDEBAR =================
 with st.sidebar:
     st.image(
-        "https://i.ibb.co/4f1LZ8D/language-detection.png",
+        "https://cdn-icons-png.freepik.com/512/10655/10655641.png",
         width=120
     )
     st.markdown("### ⚙️ Settings & Info")
@@ -109,6 +109,7 @@ with col2:
 
 # ================= FOOTER =================
 st.markdown("<div class='footer'>© 2025 Language Detection Pro | Mini Project</div>", unsafe_allow_html=True)
+
 
 
 
